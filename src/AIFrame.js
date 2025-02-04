@@ -20,7 +20,7 @@ const AIFrame = () => {
   return (
     <div style={containerStyles}>
       <iframe
-        src="https://app.relevanceai.com/agents/bcbe5a/f97a18512bb1-4923-8366-d6b939e66fb5/4b756661-bb35-44a1-9bd6-12df6f6aedbf/share?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false"
+        src="https://app.relevanceai.com/agents/d7b62b/13a5bcdd7e89-45ff-a4fe-6468387a484a/2e14764d-d431-41c8-80af-23338e8de0d1/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=true" width="100%" height="100%" frameborder="0"
         style={iframeStyles}
         title="AI Agent"
       ></iframe>
